@@ -1,0 +1,32 @@
+{
+    "courses": [
+      {
+        "id": "1",
+        "course": "Reactjs",
+        "price": "200"
+      },
+      {
+        "id": "2",
+        "course": "Nodejs",
+        "price": "100"
+      },
+      {
+        "id": "3",
+        "course": "Nextjs",
+        "price": "300"
+      },
+      {
+        "id": "4",
+        "course": "Angular",
+        "price": "500"
+      }
+    ],
+    "dashboard": [
+      {
+        "posts": "10",
+        "users": "20",
+        "comments": "30"
+      }
+    ]
+  }
+  
